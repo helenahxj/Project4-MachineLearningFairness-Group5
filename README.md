@@ -5,13 +5,13 @@
 Term: Spring 2024
 
 + Team 5
-+ Projec title: Lorem ipsum dolor sit amet
++ Projec title: Machine Learning Fairness
 + Team members
 	+ Boyu Li
 	+ Jitian Zhou
 	+ Xiangjing Hu
 	+ Jiaqi Lu
-+ Project summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: In this project we focus on enhancing fairness in machine learning model through implementation and evaluation of multiple algorithms. Specifically, we explore the local massaging and local preferential sampling algorithms to address and mitigate discrimination in the dataset, thereby effectively promoting more equitable outcomes across different race groups.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. 
 
