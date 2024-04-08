@@ -11,7 +11,7 @@ Term: Spring 2024
 	+ Jitian Zhou
 	+ Xiangjing Hu
 	+ Jiaqi Lu
-+ Project summary: In this project we focus on enhancing fairness in machine learning model through implementation and evaluation of multiple algorithms. Specifically, we explore the local massaging and local preferential sampling algorithms to address and mitigate discrimination in the dataset, thereby effectively promoting more equitable outcomes across different race groups.
++ Project summary: In this project we focus on enhancing fairness in machine learning model through the implementation and evaluation of multiple algorithms. Specifically, we explore the local massaging and local preferential sampling algorithms to address and mitigate discrimination in the dataset, thereby effectively promoting more equitable outcomes across different race groups.
 	
 **Contribution statement**: [default] All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Xiangjing is responsible for the implementation and evaluation of local massaging algorithm. Jiaqi Lu is responsible for data preprocessing, the creation of baseline model, and the implementation and evaluation of local preferential sampling algorithm.
 
