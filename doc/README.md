@@ -1,3 +1,3 @@
 ### Doc folder
 
-The doc directory contains the report or presentation files. It can have subfolders.  
+The doc directory contains the main code of the implementation and evaluation of algorithms.
