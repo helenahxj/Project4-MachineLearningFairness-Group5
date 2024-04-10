@@ -11,13 +11,9 @@ Term: Spring 2024
 	+ Jitian Zhou
 	+ Xiangjing Hu
 	+ Jiaqi Lu
-+ Project summary: In this project we focus on enhancing fairness in machine learning model through the implementation and evaluation of multiple algorithms. Specifically, we explore the local massaging and local preferential sampling algorithms to address and mitigate discrimination in the dataset, thereby effectively promoting more equitable outcomes across different race groups.
++ Project summary: In this project we focus on enhancing fairness in machine learning model through the implementation and evaluation of multiple algorithms. Our group focuses on two papers that handle discrimination introduced by sensitive attributes: Paper 5 Fairness-aware Classifier with Prejudice Remover Regularizer and Paper 6 Handling Conditional Discrimination.
 	
-<<<<<<< HEAD
-**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Xiangjing is responsible for the implementation and evaluation of Local Massaging algorithm. 
-=======
-**Contribution statement**: All team members contributed equally in all stages of this project. All team members approve our work presented in this GitHub repository including this contributions statement. Boyu and Jitian handle paper 5; Xiangjing and Jiaqi handle paper 6. Xiangjing is responsible for the implementaion and evaluation of local massaging algorithm. Jiaqi Lu is responsible for the implementaion and evaluation of local prefrential sampling algorithm.
->>>>>>> 029c30b26953cf31b9965d13ad6eebe8166e88ce
+**Contribution statement**: Xiangjing is responsible for implementing and evaluating the Local Massaging algorithm, Jiaqi is responsible for the Local Preferential Sampling algorithm in Paper 6, and Boyu and Jitian are responsible for the algorithm in Paper 4.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
